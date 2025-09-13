@@ -24,5 +24,5 @@ Flexy is an open-source visual web design tool that allows users to create custo
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/flexy.git
+   git clone https://github.com/jilin0105/flexy.git
    cd flexy
